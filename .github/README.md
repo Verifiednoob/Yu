@@ -37,6 +37,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 - Add a [GitHub Star](https://github.com/YukkiOwner/YukkiMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+  [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj4ybot/YukkiMusicBot)
 
 Together, we can make **YukkiMusicBot** better!
 # 📑 Acknowledgement / Credits
